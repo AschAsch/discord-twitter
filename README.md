@@ -1,5 +1,6 @@
 # discord-twitter
 DiscordのBOTを常駐させたチャンネルでのチャット及びBOT宛のメッセージを受信すると指定したTwitterアカウントにユーザー名とチャット内容をDMで送信する
+
 (Herokuで動作中)
 
 - DiscordDeveloperPortal (https://discordapp.com/developers) でDiscordBotを作成
