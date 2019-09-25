@@ -1,1 +1,1 @@
-discordbot: python discord_twitter.py
+discord_twitter: python discord_twitter.py
