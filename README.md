@@ -1,2 +1,2 @@
 ## Discord-Twitter
-DiscordのメッセージをTwitterのDMへ自動送信する仕組み
+DiscordのBOTを常駐させたチャンネルでのチャット及びBOT宛のメッセージを受信すると指定したTwitterアカウントにユーザー名とチャット内容をDMで送信する
