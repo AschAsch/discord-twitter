@@ -1,1 +1,1 @@
-discord_twitter: python discord_twitter.py
+web: gunicorn server:app --log-file -
